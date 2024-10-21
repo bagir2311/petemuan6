@@ -1,0 +1,11 @@
+// mencetak hello world
+console.log("hello world");
+// membembuat variabel javascript
+var name = "buddy";
+let fristname = "jhon";
+const pie = 3.14; //Number
+let isStudent = true; //boolean
+let person = {name: '"jhon, age:25"} ; //opjek
+let numbers = [1, 2, 3, 4, 5]; //array
+console.log("tipe variabe l adalah :", typeof fristname)
+console.log(fristname, pie, isStudent, person, numbers);

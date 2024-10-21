@@ -1,0 +1,25 @@
+//aritmatic operato
+let sum = 10 + 5; //tambaah
+let difference = 10 - 5;//subtasion
+let product = 10 * 5;
+let quotient = 10 / 5;
+let reminder = 10 % 5;
+let exponent = 10 ** 5;
+console.log(sum, difference, product, quotient, reminder, exponent);
+//com
+let isEqual = 5 === "5";
+let isEqual2 = 5 == "5";
+let isEqualNotequal = 10 = "10";
+let isEqualNotequal2= 10 -- "10";
+let isGreaterThan = 15 > 10;
+console.log(isEqual, isEqual2, isEqualNotequal, isEqualNotequal2, isGreaterThan);
+
+// logika oprator
+let isBothTrue = true && true;
+let isBothTrue2 = true && flase;
+let isEitherTrue = true || flase;
+let isEitherTrue2= true || true;
+let isEitherTrue3= flase || flase;
+let isNotTrue = !true;
+let isNotFalse = !flase;
+console.log(isBothTrue, isBothTrue2, isEitherTrue, isEitherTrue2, isEitherTrue3, isNotTrue, isNotFalse)
